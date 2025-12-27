@@ -1,7 +1,7 @@
 {
   "name": "obsidian-pouch-publisher",
   "version": "0.8.0",
-  "description": "Obsidian plugin to publish notes to Pouch with multi-destination support and status tracking",
+  "description": "Publish audio recordings as podcast episodes, and documents as blog posts using the https://pouch.talk API",
   "main": "main.js",
   "scripts": {
     "dev": "node esbuild.config.mjs",
