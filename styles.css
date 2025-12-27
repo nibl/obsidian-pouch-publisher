@@ -1,0 +1,20 @@
+/* Pouch Publisher Plugin Styles */
+
+.pouch-publisher-ribbon-class {
+    /* Custom styling for the ribbon icon if needed */
+}
+
+/* Settings page styling */
+.pouch-publisher-settings {
+    padding: 20px;
+}
+
+.pouch-publisher-settings h2 {
+    margin-bottom: 20px;
+}
+
+.pouch-publisher-settings .setting-item-description {
+    color: var(--text-muted);
+    font-size: 0.9em;
+    margin-top: 5px;
+}
