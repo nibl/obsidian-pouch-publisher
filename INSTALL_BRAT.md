@@ -1,5 +1,10 @@
 # Quick Start - Beta Testing with BRAT
 
+## Important Note
+**This guide was mainly written by an LLM (an AI) so there may be inconsistencies.** Please report any weirdness in the GitHub Issues section.
+
+---
+
 This guide explains how to install the Pouch Publisher plugin for beta testing using the BRAT (Beta Reviewers Auto-update Tester) plugin.
 
 ## What is BRAT?
